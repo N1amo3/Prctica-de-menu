@@ -1,0 +1,39 @@
+#{
+    margin: 0;
+    padding: 0;
+}
+body{
+front-family:verdana, geneva, tahoma;
+front-size: 15px;
+}
+.mobile-menu{
+    display:block ;
+    width:100% ;
+    background: #5381d8; 
+    line: height 1.6em; 
+    font-weight: 400;
+    text-align: center;
+    position: relative;
+    margin:0 auto;
+}
+.movile-menu ul{
+    list-style:none ;
+    margin 0 auto;
+    padding: 0 ;
+    text-align:center;
+    width: 100%;
+    position: absolute;
+    background: #9441a8;
+}
+.mobile-menu li{
+   display: inline block;
+}
+.movile-menu li a{
+    display: block;
+    min-width: none;
+    text-align: ;
+    fon font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    color: #000;
+    text-transforma::backdrop;
+    ::backdrop:#5381d8;
+}
